@@ -11,10 +11,7 @@ This project aims to predict customer churn for a telecommunications company usi
 - [Predictive Modeling](#predictive-modeling)
 - [Results](#results)
 - [Conclusion](#conclusion)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Structure
 The main parts of this project include:
@@ -37,23 +34,18 @@ Tree-based and boosting models were implemented to predict customer churn. These
 - Decision Trees
 - Random Forests
 - Gradient Boosting Machines (GBM)
-- XGBoost
+- Adabooster
 
 ## Results
-The performance of the models was evaluated using metrics such as accuracy, precision, recall, and F1-score. The results showed that boosting models performed better in predicting customer churn compared to tree-based models.
+The performance of the models was evaluated using metrics such as accuracy, precision, recall, and F1-score. The results showed that the gradient-boosting model predicted customer churn better than the other three models.
 
 ## Conclusion
-This project demonstrates the effectiveness of tree-based and boosting models in predicting customer churn. By identifying key factors contributing to churn, telecommunications companies can implement strategies to retain customers and reduce churn rates.
+This project demonstrates the effectiveness of tree-based models combined with boosting methods in classification tasks such as the prediction of customer churn. Telecommunications companies can implement strategies to retain customers and reduce churn rates by identifying key factors contributing to churn.
 
 ## Installation
-To run this project, you need to have Python installed along with the following libraries:
-- numpy
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
-- xgboost
-
-You can install the required libraries using the following command:
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost
+To run this project, we need to have Python installed along with the following libraries:
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
