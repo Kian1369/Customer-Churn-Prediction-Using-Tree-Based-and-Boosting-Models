@@ -4,7 +4,7 @@
 <br>
 ## Project Overview
 This project aims to predict customer churn for a telecommunications company using tree-based and boosting machine learning models. The project includes comprehensive exploratory data analysis, cohort analysis, and the development of predictive models.
-<br>
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Project Structure](#project-structure)
