@@ -18,6 +18,7 @@ The main parts of this project include:
 - Part 1: Comprehensive Exploratory Data Analysis
 - Part 2: Churn Cohort Analysis
 - Part 3: Tree-based and Boosting Machine Learning Predictive Models
+- Part 4: Improve Models Performance by Oversampling Minority Class
 
 ## Dataset
 The dataset used for this project is sourced from the IBM sample data set collection. It includes information about:
