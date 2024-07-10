@@ -34,7 +34,7 @@ The dataset used for this project is sourced from the IBM sample data set collec
 ## Exploratory Data Analysis
 A detailed exploratory data analysis was conducted to understand the dataset, identify patterns, and gain insights. This involved checking for missing values, analyzing the distribution of features, and visualizing relationships between features and the target variable (Churn).
 
-<img src="img/Correlations.png" alt="churn" width="750"/>
+<img src="img/Correlations.png" alt="churn" width="850"/>
 <br>
 
 ## Predictive Modeling
@@ -50,9 +50,11 @@ Tree-based and boosting models were implemented to predict customer churn. These
 The performance of the models was evaluated using metrics such as accuracy, recall, and F1-score. The results showed that the boosting methods predicted customer churn better when I performed oversampling of the minority class.
 
 <img src="img/Metrics.png" alt="churn" width="600"/>
+<br>
 
 ## Conclusion
 This project demonstrates the effectiveness of tree-based models combined with boosting methods in classification tasks such as the prediction of customer churn. Telecommunications companies can implement strategies to retain customers and reduce churn rates by identifying key factors contributing to churn.
+<br>
 
 ## Installation
 To run this project, we need to have Python installed along with the following libraries:
