@@ -45,7 +45,7 @@ Tree-based and boosting models were implemented to predict customer churn. These
 ## Results
 The performance of the models was evaluated using metrics such as accuracy, precision, recall, and F1-score. The results showed that the gradient-boosting model predicted customer churn better than the other three models.
 
-<img src="Churn.jpeg" alt="churn" width="600"/>
+<img src="Metrics.png" alt="churn" width="600"/>
 
 ## Conclusion
 This project demonstrates the effectiveness of tree-based models combined with boosting methods in classification tasks such as the prediction of customer churn. Telecommunications companies can implement strategies to retain customers and reduce churn rates by identifying key factors contributing to churn.
