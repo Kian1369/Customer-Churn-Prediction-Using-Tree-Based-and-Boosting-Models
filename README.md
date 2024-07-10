@@ -22,6 +22,7 @@ The main parts of this project include:
 - Part 3: Tree-based and Boosting Machine Learning Predictive Models
 - Part 4: Improve Models Performance by Oversampling Minority Class
 
+
 ## Dataset
 The dataset used for this project is sourced from the IBM sample data set collection. It includes information about:
 - Customers who left within the last month (Churn)
@@ -29,8 +30,10 @@ The dataset used for this project is sourced from the IBM sample data set collec
 - Customer account information (tenure, contract, payment method, paperless billing, monthly charges, total charges)
 - Demographic info (gender, age range, partners, dependents)
 
+
 ## Exploratory Data Analysis
 A detailed exploratory data analysis was conducted to understand the dataset, identify patterns, and gain insights. This involved checking for missing values, analyzing the distribution of features, and visualizing relationships between features and the target variable (Churn).
+
 
 ## Predictive Modeling
 Tree-based and boosting models were implemented to predict customer churn. These models included:
@@ -41,6 +44,8 @@ Tree-based and boosting models were implemented to predict customer churn. These
 
 ## Results
 The performance of the models was evaluated using metrics such as accuracy, precision, recall, and F1-score. The results showed that the gradient-boosting model predicted customer churn better than the other three models.
+
+<img src="Churn.jpeg" alt="churn" width="600"/>
 
 ## Conclusion
 This project demonstrates the effectiveness of tree-based models combined with boosting methods in classification tasks such as the prediction of customer churn. Telecommunications companies can implement strategies to retain customers and reduce churn rates by identifying key factors contributing to churn.
