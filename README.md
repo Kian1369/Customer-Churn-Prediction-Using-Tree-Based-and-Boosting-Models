@@ -44,6 +44,8 @@ Tree-based and boosting models were implemented to predict customer churn. These
 - Gradient Boosting Machines (GBM)
 - Adabooster
 
+<br>
+
 ## Results
 The performance of the models was evaluated using metrics such as accuracy, recall, and F1-score. The results showed that the boosting methods predicted customer churn better when I performed oversampling of the minority class.
 
