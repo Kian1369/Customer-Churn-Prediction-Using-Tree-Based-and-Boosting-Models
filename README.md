@@ -34,7 +34,8 @@ The dataset used for this project is sourced from the IBM sample data set collec
 ## Exploratory Data Analysis
 A detailed exploratory data analysis was conducted to understand the dataset, identify patterns, and gain insights. This involved checking for missing values, analyzing the distribution of features, and visualizing relationships between features and the target variable (Churn).
 
-<img src="img/Correlations.png" alt="churn" width="600"/>
+<img src="img/Correlations.png" alt="churn" width="750"/>
+<br>
 
 ## Predictive Modeling
 Tree-based and boosting models were implemented to predict customer churn. These models included:
