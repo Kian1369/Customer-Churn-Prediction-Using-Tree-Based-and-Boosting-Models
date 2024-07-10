@@ -1,7 +1,8 @@
 # Telephone-Internet Customer Churn Prediction Using Tree-Based and Boosting Models
 
 <img src="img/Churn.jpeg" alt="churn" width="600"/>
-<br>
+
+
 ## Project Overview
 This project aims to predict customer churn for a telecommunications company using tree-based and boosting machine learning models. The project includes comprehensive exploratory data analysis, cohort analysis, and the development of predictive models.
 
