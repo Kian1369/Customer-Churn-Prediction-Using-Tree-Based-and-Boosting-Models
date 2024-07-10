@@ -43,7 +43,7 @@ Tree-based and boosting models were implemented to predict customer churn. These
 - Adabooster
 
 ## Results
-The performance of the models was evaluated using metrics such as accuracy, precision, recall, and F1-score. The results showed that the gradient-boosting model predicted customer churn better than the other three models.
+The performance of the models was evaluated using metrics such as accuracy, recall, and F1-score. The results showed that the boosting methods predicted customer churn better when I performed oversampling of the minority class.
 
 <img src="Metrics.png" alt="churn" width="600"/>
 
